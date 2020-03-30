@@ -1,0 +1,13 @@
+D:\workC#\HomeWork9\bin\Debug\netcoreapp3.1\HomeWork9.exe
+D:\workC#\HomeWork9\bin\Debug\netcoreapp3.1\HomeWork9.deps.json
+D:\workC#\HomeWork9\bin\Debug\netcoreapp3.1\HomeWork9.runtimeconfig.json
+D:\workC#\HomeWork9\bin\Debug\netcoreapp3.1\HomeWork9.runtimeconfig.dev.json
+D:\workC#\HomeWork9\bin\Debug\netcoreapp3.1\HomeWork9.dll
+D:\workC#\HomeWork9\bin\Debug\netcoreapp3.1\HomeWork9.pdb
+D:\workC#\HomeWork9\obj\Debug\netcoreapp3.1\HomeWork9.csprojAssemblyReference.cache
+D:\workC#\HomeWork9\obj\Debug\netcoreapp3.1\HomeWork9.csproj.CoreCompileInputs.cache
+D:\workC#\HomeWork9\obj\Debug\netcoreapp3.1\HomeWork9.AssemblyInfoInputs.cache
+D:\workC#\HomeWork9\obj\Debug\netcoreapp3.1\HomeWork9.AssemblyInfo.cs
+D:\workC#\HomeWork9\obj\Debug\netcoreapp3.1\HomeWork9.dll
+D:\workC#\HomeWork9\obj\Debug\netcoreapp3.1\HomeWork9.pdb
+D:\workC#\HomeWork9\obj\Debug\netcoreapp3.1\HomeWork9.genruntimeconfig.cache
