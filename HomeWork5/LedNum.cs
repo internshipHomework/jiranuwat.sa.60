@@ -22,7 +22,6 @@ class Lednum : IHomework05{
                 }
                 Console.WriteLine(string.Join(" ", check));
                 Console.WriteLine("{0}",string.Join(" ", opend));
-                Console.WriteLine("{0}",string.Join(" ", opend));
                 x++;
             }
             return ledno;
