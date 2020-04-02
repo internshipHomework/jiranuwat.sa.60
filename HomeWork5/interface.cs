@@ -1,4 +1,4 @@
- interface IHomework05
+interface IHomework05
 {
-    string DisplayLeOnScreen(string ledno);
+        string DisplayLeOnScreen(string ledno);
 }

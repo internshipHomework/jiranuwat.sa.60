@@ -20,9 +20,9 @@ class Lednum : IHomework05{
                         check[i] = "[ ! ]";
                 }    
                 }
-                Console.WriteLine("{0}",string.Join(" ", opend));
-                Console.WriteLine("-----------------------------------------");
                 Console.WriteLine(string.Join(" ", check));
+                Console.WriteLine("{0}",string.Join(" ", opend));
+                Console.WriteLine("{0}",string.Join(" ", opend));
                 x++;
             }
             return ledno;
