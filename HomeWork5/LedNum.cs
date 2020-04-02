@@ -3,8 +3,8 @@ class Lednum : IHomework05{
     public string DisplayLeOnScreen(string ledno){
         string DisplayLeOnScreen;
         DisplayLeOnScreen = ledno;
-        string[] opend = { "1", "2", "3", "4", "5", "6", "7", "8", "9", "A" };
-        string[] check = { "[]", "[]", "[]", "[]", "[]", "[]", "[]", "[]", "[]", "[]"};
+        string[] opend = {"1","2", "3", "4", "5", "6", "7", "8", "9", "A" };
+        string[] check = { "[ ]", "[ ]", "[ ]", "[ ]", "[ ]", "[ ]", "[ ]", "[ ]", "[ ]", "[ ]"};
         int x = 1;
         while(x <= 50){
             Console.WriteLine("Of/On LED");
@@ -12,15 +12,15 @@ class Lednum : IHomework05{
             {
                 if (opend[i] == ledno & check[i] == "[!]")
                 {
-                        check[i] = "[]";
+                        check[i] = "[ ]";
                 }
-                else if (opend[i] == ledno & check[i] == "[]")
+                else if (opend[i] == ledno & check[i] == "[ ]")
                 {
                         check[i] = "[!]";
                 }    
                 }
                 Console.WriteLine(string.Join(" ", check));
-                Console.WriteLine(string.Join(" ", opend));
+                Console.WriteLine(" 1   2   3   4   5   6   7   8   9   A");
                 Console.WriteLine("Please choose LED to turn On/Off:");
                 ledno = Console.ReadLine();
                 x++;
