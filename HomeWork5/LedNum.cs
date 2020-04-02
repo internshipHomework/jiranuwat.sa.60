@@ -20,7 +20,7 @@ class Lednum : IHomework05{
                 }    
                 }
                 Console.WriteLine(string.Join(" ", check));
-                Console.WriteLine("{0}",string.Join(" ", opend));
+                Console.WriteLine(string.Join(" ", opend));
                 Console.WriteLine("Please choose LED to turn On/Off:");
                 ledno = Console.ReadLine();
                 x++;

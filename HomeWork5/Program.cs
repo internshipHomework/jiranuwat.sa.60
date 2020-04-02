@@ -2,7 +2,7 @@
 
 namespace HomeWork5
 {
-         class Program
+    class Program
     {
         static void Main(string[] args)
         {
