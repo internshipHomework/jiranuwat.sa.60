@@ -4,24 +4,25 @@ class Lednum : IHomework05{
         string DisplayLeOnScreen;
         DisplayLeOnScreen = ledno;
         string[] opend = { "1", "2", "3", "4", "5", "6", "7", "8", "9", "A" };
-        string[] check = { "[  ]", "[  ]", "[  ]", "[  ]", "[  ]", "[  ]", "[  ]", "[  ]", "[  ]", "[  ]"};
+        string[] check = { "[]", "[]", "[]", "[]", "[]", "[]", "[]", "[]", "[]", "[]"};
         int x = 1;
         while(x <= 50){
-            Console.WriteLine("Of/On Light bulb");
-            ledno = Console.ReadLine();
+            Console.WriteLine("Of/On LED");
             for (int i = 0; i < 10; i++)
             {
-                if (opend[i] == ledno & check[i] == "[ ! ]")
+                if (opend[i] == ledno & check[i] == "[!]")
                 {
-                        check[i] = "[  ]";
+                        check[i] = "[]";
                 }
-                else if (opend[i] == ledno & check[i] == "[  ]")
+                else if (opend[i] == ledno & check[i] == "[]")
                 {
-                        check[i] = "[ ! ]";
+                        check[i] = "[!]";
                 }    
                 }
                 Console.WriteLine(string.Join(" ", check));
                 Console.WriteLine("{0}",string.Join(" ", opend));
+                Console.WriteLine("Please choose LED to turn On/Off:");
+                ledno = Console.ReadLine();
                 x++;
             }
             return ledno;
