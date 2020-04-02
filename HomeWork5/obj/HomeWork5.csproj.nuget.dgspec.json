@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jiranuwat\\Desktop\\jiranuwat.sa.60\\HomeWork5\\HomeWork5.csproj": {}
+    "C:\\Users\\Jiranuwat\\Desktop\\C#\\jiranuwat.sa.60\\HomeWork5\\HomeWork5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jiranuwat\\Desktop\\jiranuwat.sa.60\\HomeWork5\\HomeWork5.csproj": {
+    "C:\\Users\\Jiranuwat\\Desktop\\C#\\jiranuwat.sa.60\\HomeWork5\\HomeWork5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jiranuwat\\Desktop\\jiranuwat.sa.60\\HomeWork5\\HomeWork5.csproj",
+        "projectUniqueName": "C:\\Users\\Jiranuwat\\Desktop\\C#\\jiranuwat.sa.60\\HomeWork5\\HomeWork5.csproj",
         "projectName": "HomeWork5",
-        "projectPath": "C:\\Users\\Jiranuwat\\Desktop\\jiranuwat.sa.60\\HomeWork5\\HomeWork5.csproj",
+        "projectPath": "C:\\Users\\Jiranuwat\\Desktop\\C#\\jiranuwat.sa.60\\HomeWork5\\HomeWork5.csproj",
         "packagesPath": "C:\\Users\\Jiranuwat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jiranuwat\\Desktop\\jiranuwat.sa.60\\HomeWork5\\obj\\",
+        "outputPath": "C:\\Users\\Jiranuwat\\Desktop\\C#\\jiranuwat.sa.60\\HomeWork5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jiranuwat\\AppData\\Roaming\\NuGet\\NuGet.Config",
