@@ -1,0 +1,13 @@
+D:\ox\bin\Debug\netcoreapp3.1\ox.exe
+D:\ox\bin\Debug\netcoreapp3.1\ox.deps.json
+D:\ox\bin\Debug\netcoreapp3.1\ox.runtimeconfig.json
+D:\ox\bin\Debug\netcoreapp3.1\ox.runtimeconfig.dev.json
+D:\ox\bin\Debug\netcoreapp3.1\ox.dll
+D:\ox\bin\Debug\netcoreapp3.1\ox.pdb
+D:\ox\obj\Debug\netcoreapp3.1\ox.csprojAssemblyReference.cache
+D:\ox\obj\Debug\netcoreapp3.1\ox.AssemblyInfoInputs.cache
+D:\ox\obj\Debug\netcoreapp3.1\ox.AssemblyInfo.cs
+D:\ox\obj\Debug\netcoreapp3.1\ox.csproj.CoreCompileInputs.cache
+D:\ox\obj\Debug\netcoreapp3.1\ox.dll
+D:\ox\obj\Debug\netcoreapp3.1\ox.pdb
+D:\ox\obj\Debug\netcoreapp3.1\ox.genruntimeconfig.cache
